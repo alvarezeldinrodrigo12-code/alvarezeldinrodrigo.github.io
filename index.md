@@ -4,28 +4,26 @@ I'm a Data Scientist passionate about Machine Learning, Data Visualization, and 
 ---
 
 ## 📊 Statistics Projects
-- [Regression Analysis in Python](https://github.com/yourusername/stats-regression-analysis)
-- [Hypothesis Testing Project](https://github.com/yourusername/stats-hypothesis-tests)
+- [The Origins of Markov Chains ( and the Monte Carlo Method )]()
 
 ## 🤖 Machine Learning
-- [Customer Churn Prediction](https://github.com/yourusername/ml-churn-prediction)
-- [Clustering Comparison](https://github.com/yourusername/ml-clustering)
+- [Customer Churn Prediction]()
+- [Clustering Comparison]()
 
 ## 🧠 Deep Learning
-- [CNN for Image Classification](https://github.com/yourusername/dl-cnn-classifier)
+- [CNN for Image Classification]()
 
 ## 📈 Visualization
-- [Power BI Sales Dashboard](https://github.com/yourusername/viz-powerbi-sales)
+- [Power BI Sales Dashboard]()
 
 ---
 
 ### 🧰 Skills
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow), Statistics
 - SQL, Power BI
-- Git, Linux, VS Code
+- Git, VS Code
 
 ---
 
 📫 **Connect with me:**  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Email](mailto:you@example.com)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-alvarez-eldin-650073196/)  
