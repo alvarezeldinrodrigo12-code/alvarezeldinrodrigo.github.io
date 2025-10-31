@@ -4,7 +4,7 @@ I'm a Data Scientist passionate about Machine Learning, Data Visualization, and 
 ---
 
 ## 📊 Statistics Projects
-- [The Origins of Markov Chains ( and the Monte Carlo Method )]()
+- [The Origins of Markov Chains ( and the Monte Carlo Method )](https://github.com/alvarezeldinrodrigo12-code/stat_Markov_Montecarlo)
 
 ## 🤖 Machine Learning
 - [Customer Churn Prediction]()
