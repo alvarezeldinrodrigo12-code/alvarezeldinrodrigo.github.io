@@ -1,5 +1,7 @@
-# 👋 Hi, I'm [Your Name]
-I'm a Data Scientist passionate about Machine Learning, Data Visualization, and AI applications.
+# 👋 Hello visitor!
+
+My name is Rodrigo Alvarez, I'm a Data Scientist passionate about Machine Learning, Data Visualization, and AI applications. 
+In this repository you will find projects that I've worked on during my time as a Data Scientist as well as personal projects that I've found interesting and more.    
 
 ---
 
@@ -7,14 +9,11 @@ I'm a Data Scientist passionate about Machine Learning, Data Visualization, and 
 - [The Origins of Markov Chains ( and the Monte Carlo Method )](https://github.com/alvarezeldinrodrigo12-code/stat_Markov_Montecarlo)
 
 ## 🤖 Machine Learning
-- [Customer Churn Prediction]()
-- [Clustering Comparison]()
+- [Customer Churn Prediction
+- [Clustering Comparison
 
 ## 🧠 Deep Learning
-- [CNN for Image Classification]()
-
-## 📈 Visualization
-- [Power BI Sales Dashboard]()
+- [CNN for Image Classification](https://github.com/alvarezeldinrodrigo12-code/dl_CNN_image_class)
 
 ---
 
